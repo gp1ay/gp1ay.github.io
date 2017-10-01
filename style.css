@@ -2,15 +2,15 @@ body {
 	width: 1440px;
 	margin: 0 auto;
 }
-.sidebar {
+#sidebar {
 	width: 320px;
 	margin: 0 auto;
 }
-.content {
+#content {
 	width: 1024px;
 	margin: 0 auto;
 }
-.v7emfjdk {
+#v7emfjdk {
 	width: 1056px;
 
 }
